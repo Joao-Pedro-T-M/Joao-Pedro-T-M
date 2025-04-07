@@ -12,6 +12,8 @@
   
   ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/joão-pedro-b53a38185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-b53a38185" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
